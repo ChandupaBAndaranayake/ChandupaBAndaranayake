@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Chandupa Chiranjeewa! 👋
 
 Welcome to my corner of the digital world! I'm a passionate software developer with a knack for problem-solving and a love for coding in C, C++, and Java. My journey in the world of technology is driven by curiosity, creativity, and a constant desire to learn and grow.
 
