@@ -4,7 +4,7 @@ Welcome to my corner of the digital world! I'm a passionate software developer w
 
 ## About Me
 
-- **Name:** [Your Name]
+- **Name:** Chandupa Chiranjeewa Bandaranyake
 - **Role:** Aspiring Full-Stack Developer
 - **Skills:** C, C++, Java, Full-Stack Development, Software Engineering
 - **Interests:** Coding, Problem Solving, Open Source, Technology, Innovation
