@@ -32,7 +32,7 @@ Ever since I wrote my first "Hello, World!" program, I knew I was hooked on codi
 I'm always open to new opportunities, collaborations, and discussions. Whether you want to talk about the latest tech trends, brainstorm project ideas, or simply connect, feel free to reach out!
 
 - **LinkedIn:** https://www.linkedin.com/in/chandupa-chiranjeewa-138579252/
-- **Email:** cicmurox@gmail.com
+- **Email:** chandupachiranjewa@gmail.com
 
 ## Fun Fact
 
