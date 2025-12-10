@@ -2,9 +2,6 @@
 <h3 align="center">Welcome to my corner of the digital world! I'm a passionate software developer with a knack for problem-solving and a love for coding in C, C++, and Java. My journey in the world of technology is driven by curiosity, creativity, and a constant desire to learn and grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupabandaranayake&label=Profile%20views&color=0e75b6&style=flat" alt="chandupabandaranayake" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandupabandaranayake" alt="chandupabandaranayake" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cicmurox" target="blank"><img src="https://img.shields.io/twitter/follow/cicmurox?logo=twitter&style=for-the-badge" alt="cicmurox" /></a> </p>
 
