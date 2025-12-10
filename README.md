@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/cicmurox" target="blank"><img src="https://img.shields.io/twitter/follow/cicmurox?logo=twitter&style=for-the-badge" alt="cicmurox" /></a> </p>
 
-- 🔭 I’m currently working on [potforlio](https://github.com/ChandupaBAndaranayake/Portfolio.git)
+- 🔭 I’m currently working on [Micro-XRCE-DDS-Gen]([https://github.com/ChandupaBAndaranayake/Portfolio.git](https://github.com/ChandupaBAndaranayake/Micro-XRCE-DDS-Gen.git))
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Python,C++**
 
 - 👯 I’m looking to collaborate on [Torrent-Server](https://github.com/ChandupaBAndaranayake/Torrent-Server.git)
 
 - 🤝 I’m looking for help with [AI-Enhanced-IOT-System-for-Real-Time-Diagnosting-and-Monitoring](https://github.com/ChandupaBAndaranayake/AI-Enhanced-IOT-System-for-Real-Time-Diagnosting-and-Monitoring.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChandupaBAndaranayake](https://github.com/ChandupaBAndaranayake)
-
-- 📝 I regularly write articles on [https://github.com/ChandupaBAndaranayake](https://github.com/ChandupaBAndaranayake)
 
 - 💬 Ask me about **C,java,python,go-lang**
 
